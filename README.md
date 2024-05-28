@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+My name is Anshul I am student from Heriot Watt University, Where I trained as a Data Scientist intreseted in all things Python and Data Science.
+- 🔭 I'm currently working on publishing research on the 'Early Detection of Cardiovascular Diseases' at my university. I also work as a freelancer for AI/ML business solutions at a healthcare company. 
+- 🌱 I’m currently learning about histopatholgy imagining and how to process data like that.
+- 👯 I’m looking to collaborate on anything Data Science particular in the medical field.
+- 📫 You can reach me at `anshulraj@gmail.com` 
 <!--
 **Anshul261/anshul261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
