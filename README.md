@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Anshul I am an AI Developer working at Alpha Data.
-- 📕 I am currently working on publishing my research paper on the 'Early Detection of Cardiovascular Diseases' at my university. I am currently working as a freelancer for AI/ML business solutions.
+- 📕 I am currently working on publishing my research paper on the 'Early Detection of Cardiovascular Diseases'.
 - 🌱 I am learning about histopathology imagining
 - 🔭 I am currently working on building Agentic AI applications and Private LLMs for Enterprises.
 - 📫 You can reach me at `anshulraj@gmail.com` or find me on Linkedin 
