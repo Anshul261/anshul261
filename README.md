@@ -1,8 +1,10 @@
 ## Hi there 👋
-My name is Anshul I am student from Heriot Watt University, Where I majored in Data Science.
-- 🔭 I am currently working on publishing my research paper on the 'Early Detection of Cardiovascular Diseases' at my university. I am currently working as a freelancer for AI/ML business solutions.
-- 🌱 I am learning about histopatholgy imagining and how to create and deploy large scale LLM based RAG models for databases and documents.
-- 📫 You can reach me at `anshulraj@gmail.com` 
+My name is Anshul I am an AI Developer working in Alpha Data.
+- 📕 I am currently working on publishing my research paper on the 'Early Detection of Cardiovascular Diseases' at my university. I am currently working as a freelancer for AI/ML business solutions.
+- 🌱 I am learning about histopathology imagining
+- 🔭 I am currently working on building Agentic AI applications and Private LLMs for Enterprises.
+- 📫 You can reach me at `anshulraj@gmail.com` or find me on Linkedin 
+
 <!--
 **Anshul261/anshul261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
